@@ -1,0 +1,35 @@
+.h {
+  background: #e9e7de;
+  color: #6C7863;
+}
+
+.hi {
+  position: sticky;
+}
+
+.pr {
+  height: 120px;
+  background-color: #6C7863;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pg img {
+  width: 380px;
+}
+
+.pg h1 {
+  font-size: 20px;
+}
+
+.pg button {
+  background: #6C7863;
+  color: white;
+  border: none;
+  font-size: small;
+}
+
+.more button {
+  color: #6C7863;
+  border: 1px solid black;
+}/*# sourceMappingURL=Style.css.map */
